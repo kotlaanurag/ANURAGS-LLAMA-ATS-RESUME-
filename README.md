@@ -1,4 +1,4 @@
-For ENVIRONMENTAL VARIALES:
+##For ENVIRONMENTAL VARIALES:##
 use the command (conda create -p venv python=3.12 -y)
 and to activate (conda activate venv/)
 Create a .env file and mention the key as shown (GROQ_API_KEY="gsk_jzQ1rDLu")
