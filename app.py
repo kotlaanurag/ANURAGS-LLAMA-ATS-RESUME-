@@ -6,6 +6,7 @@ from groq import Groq
 
 # Load environment variables
 load_dotenv()
+#added desktop
 
 # Initialize the Groq client
 groq = Groq(api_key=os.getenv("GROQ_API_KEY"))
